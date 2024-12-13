@@ -2,7 +2,7 @@
 ### Author: Cooper Wiegand
 ### Directive: CSC840 - Final Presentation
 
-### > [YouTube Walkthough](https://www.youtube.com/watch?v=xxxxxxxxx)
+### > [YouTube Walkthough](https://youtu.be/NMGdlUtzD0s)
 
 # SMB Playground: Featuring NetExec & enum4linux
 
